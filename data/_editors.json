@@ -1,23 +1,23 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Atticus813",
+        "link": "https://www.youtube.com/@Teknowledge"
     },
     {
-        "role": "admin",
+        "role": "Atticus813",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
+    },        "link": "https://www.youtube.com/@Teknowledge"
+
     {
-        "role": "helper",
+        "role": "Atticus813",
         "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@Teknowledge"
     },
     {
-        "role": "trial",
+        "role": "Atticus813",
         "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@Teknowledge"
     },
     {
         "role": "dev",
